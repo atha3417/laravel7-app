@@ -1,10 +1,14 @@
 {
-    "name": "laravel/laravel",
+    "name": "atha/laravel7-app",
     "type": "project",
     "description": "The Laravel Framework.",
-    "keywords": [
-        "framework",
-        "laravel"
+    "keywords": ["framework", "laravel", "php"],
+    "authors": [
+        {
+            "name": "Atha Tsaqif",
+            "email": "atha.3417@gmail.com",
+            "homepage": "http://example.com/"
+        }
     ],
     "license": "MIT",
     "require": {
